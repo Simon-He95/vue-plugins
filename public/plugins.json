@@ -1664,7 +1664,7 @@
       "components",
       "vue3",
       "community"
-    ],
+     ],
     "type": "community"
   },
   {
@@ -1720,7 +1720,7 @@
       "i18n",
       "vue3",
       "Internationalization"
-    ],
+     ],
     "type": "community"
   },
   {
@@ -1740,7 +1740,7 @@
       "community",
       "zod",
       "i18n"
-    ],
+     ],
     "type": "community"
   },
   {
@@ -1753,13 +1753,7 @@
     "npmUrl": "https://www.npmjs.com/package/vue-to-print",
     "documentationUrl": "https://vue-to-print.netlify.app/",
     "author": "siaikin",
-    "tags": [
-      "vue3",
-      "typescript",
-      "community",
-      "print",
-      "printer"
-    ],
+    "tags": ["vue3", "typescript", "community", "print", "printer"],
     "type": "community"
   },
   {
@@ -1777,7 +1771,7 @@
       "community",
       "components",
       "composables"
-    ],
+     ],
     "type": "community"
   },
   {
@@ -1795,7 +1789,7 @@
       "markdown",
       "unified",
       "preview"
-    ],
+     ],
     "type": "community"
   },
   {
@@ -1830,13 +1824,7 @@
     "npmUrl": "https://www.npmjs.com/package/vue-log-arsenal",
     "documentationUrl": "https://github.com/MvdZon/Vue3-log-arsenal#readme",
     "author": "MvdZon",
-    "tags": [
-      "vue3",
-      "logging",
-      "directives",
-      "debugging",
-      "community"
-    ],
+    "tags": ["vue3", "logging", "directives", "debugging", "community"],
     "type": "community"
   },
   {
@@ -1853,7 +1841,7 @@
       "json",
       "editor",
       "jsoneditor"
-    ],
+     ],
     "type": "community"
   },
   {
@@ -1904,18 +1892,10 @@
     "npmUrl": "https://www.npmjs.com/package/@kaokei/use-vue-service",
     "documentationUrl": "https://use-vue-service.kaokei.com/",
     "author": "kaokei",
-    "tags": [
-      "vue3",
-      "state",
-      "state-management",
-      "ioc",
-      "di",
-      "typescript",
-      "community"
-    ],
+    "tags": ["vue3", "state", "state-management", "ioc", "di", "typescript", "community"],
     "type": "community"
   },
-  {
+   {
     "id": "vbox",
     "name": "VBox",
     "description": "A plugin that exposes a polymorphic Vue.js component with a lightweight styling engine.",
